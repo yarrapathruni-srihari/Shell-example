@@ -5,7 +5,7 @@
 #
 #
 #
-# This script will help users to communicate and retrieve information from GitHub ok srihari
+# This script will help users to communicate and retrieve information from GitHub ok srihari fetch
 # Usage:
 #   Please provide your github token and rest api to the script as input
 #
@@ -46,3 +46,4 @@ else
 fi
 
 cat $TMPFILE
+
